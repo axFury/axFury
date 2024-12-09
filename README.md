@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Axel
 
-🎓 Étudiant en 4ème année à [Epitech](https://www.epitech.eu), je travaille pour obtenir mon diplôme d'expert en ingénierie logicielle.  
+🎓 Étudiant en 4ème année d'[Epitech](https://www.epitech.eu)🇫🇷 à University Of Zagreb🇭🇷, je travaille pour obtenir mon diplôme d'expert en ingénierie logicielle.  
 💻 Développeur freelance et passionné par la création de solutions innovantes, je combine **créativité** et **technologie** pour monter des projets uniques.
 
 ---
