@@ -28,13 +28,6 @@ Un logiciel de musique innovant avec un design captivant.
 
 ---
 
-## 📈 Statistiques GitHub  
-
-![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=axFury&show_icons=true&theme=radical)  
-![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=axFury&layout=compact&theme=radical)  
-
----
-
 ## 📝 Me contacter  
 
 - ✉️ **Email** : contact@lemaire-axel.fr  
