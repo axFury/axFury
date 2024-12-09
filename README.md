@@ -24,7 +24,7 @@
 
 ### 🎵 Showtime
 Un logiciel de musique innovant avec un design captivant.  
-**[Voir le repo]([https://github.com/ton-profil/Showtime](https://github.com/ShowTime-Sound-Solution))**  
+**[Voir le repo](https://github.com/ShowTime-Sound-Solution)**  
 
 ---
 
