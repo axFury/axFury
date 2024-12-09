@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Salut, je suis Axel
 
-<!--
-**axFury/axFury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en 4ème année à [Epitech](https://www.epitech.eu), je travaille pour obtenir mon diplôme d'expert en ingénierie logicielle.  
+💻 Développeur freelance et passionné par la création de solutions innovantes, je combine **créativité** et **technologie** pour monter des projets uniques.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Ce que je fais :
+
+- **Développement multiplateforme** : Applications mobiles avec Flutter et applications desktop avec Avalonia.  
+- **Backend solide** : Expérience avec des architectures séparées et orientées services.  
+- **Création de projets** : Toujours à la recherche d'idées nouvelles pour innover et apprendre.  
+
+### 🔧 Outils et Technologies
+
+- Langages : `C#`, `Dart`, `JavaScript`, `Python`, etc.  
+- Frameworks : `Flutter`, `AvaloniaUI`, `React`.  
+- Outils : `Firebase`, `Docker`, `Git`, `Visual Studio`, `Xcode`.  
+- Plateformes : macOS (Mac M1), Windows, Linux.  
+
+---
+
+## 🌟 projets en cours
+
+### 🎵 Showtime
+Un logiciel de musique innovant avec un design captivant.  
+**[Voir le repo]([https://github.com/ton-profil/Showtime](https://github.com/ShowTime-Sound-Solution))**  
+
+---
+
+## 📈 Statistiques GitHub  
+
+![Tes stats GitHub](https://github-readme-stats.vercel.app/api?username=axFury&show_icons=true&theme=radical)  
+![Les langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=axFury&layout=compact&theme=radical)  
+
+---
+
+## 📝 Me contacter  
+
+- ✉️ **Email** : contact@lemaire-axel.fr  
+- 💼 **LinkedIn** : [Ton profil LinkedIn](https://linkedin.com/in/lemaireaxel)  
+- 🌐 **Site perso** : [axel.dev](https://lemaire-axel.fr)  
+
+Merci de visiter mon profil, n'hésitez pas à explorer mes projets et à me contacter pour collaborer ! 🚀
