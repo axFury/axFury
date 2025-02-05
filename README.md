@@ -28,7 +28,7 @@ Un logiciel de musique innovant avec un design captivant.
 
 ### PokeBank
 suivez vos investissements Pokémon !
-**[Voir le repo](https://github.com/axFury/PokeBank)
+**[Voir le repo](https://github.com/axFury/PokeBank)**
 
 ---
 
