@@ -27,7 +27,8 @@ Un logiciel de musique innovant avec un design captivant.
 **[Voir le repo](https://github.com/ShowTime-Sound-Solution)**  
 
 ### 📈 PokeBank
-suivez vos investissements Pokémon !
+suivez vos investissements Pokémon ! 
+
 **[Voir le repo](https://github.com/axFury/PokeBank)**
 
 ---
